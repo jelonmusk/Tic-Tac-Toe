@@ -1,3 +1,5 @@
+![](https://github.com/jelonmusk/Tic-Tac-Toe/blob/master/screencapture-localhost-3000-2020-08-10-23_19_30.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
